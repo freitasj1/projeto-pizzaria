@@ -9,7 +9,7 @@ include_once("templates/header.php");
             <div class="row">
                 <div class="col-md-12">
                     <h2>Monte sua pizza</h2>
-                    <form action="process/pizza.php" id="pizza-form" method="POST">
+                    <form action="process/pizza.php" class="pizza-form" method="POST">
                         <div class="form-group">
                         <label for="borda">Borda:</label>
                         <select name="borda" id="borda" class="form-control">
