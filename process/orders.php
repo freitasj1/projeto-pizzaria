@@ -1,5 +1,2 @@
-<?php 
-
+<?php
     include_once("conn.php");
-
-?>
